@@ -30,5 +30,11 @@
       "name": "Lineaje DepFixer",
       "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
     }
-  ]
+  ],
+  "overrides": {
+    "ansi-regex": ">=3.0.1"
+  },
+  "resolutions": {
+    "ansi-regex": ">=3.0.1"
+  }
 }
